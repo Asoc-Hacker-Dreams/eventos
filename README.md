@@ -1,7 +1,4 @@
-# jornadaaws2025
-Jornada AWS 2025
-
-Jornada AWS 2025
+# Jornada AWS 2025
 
 Agenda del Evento
 
