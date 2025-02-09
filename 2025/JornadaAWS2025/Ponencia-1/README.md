@@ -11,7 +11,7 @@ Desde la aparición de la herramienta de **Lambda Power Tuning**, su uso ha sido
 En esta charla, explicaré cómo utilizar **Lambda Power Tuning**, así como los resultados de pruebas entre arquitecturas **x86_64 vs Arm64**.
 
 ## 📽 Recursos
-- 🔗 [Slides](https://github.com/Asoc-Hacker-Dreams/jornadaaws2025/blob/main/Ponencia-1/AWS%20Lambda%20Power%20Tuning%2008_02_2025-olcortesb.pdf)
+- 🔗 [Slides](https://github.com/Asoc-Hacker-Dreams/eventos/blob/main/2025/JornadaAWS2025/Ponencia-1/AWS%20Lambda%20Power%20Tuning%2008_02_2025-olcortesb.pdf)
 
 ## 🎬 Vídeo del ejemplo
 

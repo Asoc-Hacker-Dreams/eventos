@@ -13,6 +13,6 @@ Descubre qué es realmente DevOps y cómo AWS te proporciona un ecosistema compl
 Además, compartiré consejos prácticos basados en mi experiencia profesional, proyectos reales y el aprendizaje continuo en esta disciplina. Esta charla está diseñada para principiantes que quieren iniciar su camino y también para profesionales que buscan estructurar su carrera en DevOps en la nube.
 
 ## 📽 Recursos
-- 🔗 [Slides](https://github.com/Asoc-Hacker-Dreams/jornadaaws2025/blob/main/Ponencia-1/Quiero-ser-DevOps-en-AWS-Por-donde-empiezo-2.pdf)
+- 🔗 [Slides](https://github.com/Asoc-Hacker-Dreams/eventos/blob/main/2025/JornadaAWS2025/Ponencia-2/Quiero-ser-DevOps-en-AWS-Por-donde-empiezo-2.pdf)
 
 

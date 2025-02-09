@@ -1,6 +1,13 @@
 # Jornada AWS 2025
 # ![Jornada AWS 2025](JornadaAWS2025.jpeg)
 
+
+## 🎬 Grabación del evento
+
+[![Ver el vídeo](https://img.youtube.com/vi/Ofa9sOP2X7E/0.jpg)](https://www.youtube.com/watch?v=Ofa9sOP2X7E)
+
+
+
 **Agenda del Evento**
 
 10:00 AM - Puertas Abiertas Recibimiento y networking inicial.
